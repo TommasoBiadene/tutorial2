@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1061693820374",
+    "project_id": "tutorial-fe8da",
+    "storage_bucket": "tutorial-fe8da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061693820374:android:eecd08ac8ccb22b1e96877",
+        "android_client_info": {
+          "package_name": "com.example.tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu9KTsiXIhBDKAjroYFlmxSId5O9ZC2-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
